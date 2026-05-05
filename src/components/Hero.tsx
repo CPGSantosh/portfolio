@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
             <div className="w-40 h-40 mx-auto bg-gradient-to-r from-blue-500 to-yellow-500 rounded-full p-1">
               <div className="w-full h-full bg-gray-800 rounded-full overflow-hidden">
                 <img
-                  src="https://i.postimg.cc/vH8w4v5B/Whats-App-Image-2025-06-25-at-16-23-23.jpg"
+                  src="/images/photo.jpeg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
