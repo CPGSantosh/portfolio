@@ -173,19 +173,20 @@ const Contact: React.FC = () => {
                 Availability
               </h4>
               <div className="space-y-2 text-gray-300">
-                <p>📅 Monday - Friday: 9:00 AM - 6:00 PM</p>
-                <p>📅 Saturday: 10:00 AM - 2:00 PM</p>
+                <p>📅 Monday - Friday: 9:00 AM - 7:00 PM</p>
+                <p>📅 Saturday: 10:00 AM - 3:00 PM</p>
                 <p>📅 Sunday: By Appointment Only</p>
               </div>
               <div className="mt-4 flex items-center space-x-2">
                 <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
                 <span className="text-green-400 text-sm">
-                  Currently Available
+                 Currently Available
+                 
                 </span>
               </div>
             </div>
           </div>
-
+ 
           {/* Contact Form */}
           <div>
             <form onSubmit={handleSubmit} className="space-y-6">
