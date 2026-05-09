@@ -3,7 +3,7 @@ import { GraduationCap, Target, Users, Award } from "lucide-react";
 
 const About: React.FC = () => {
   const stats = [
-    { icon: GraduationCap, label: "Years of Study", value: "4+" },
+    { icon: GraduationCap, label: "Study years", value: "4+" },
     { icon: Target, label: "Projects Completed", value: "25+" },
     { icon: Users, label: "Clients Served", value: "15+" },
     { icon: Award, label: "Certifications", value: "8+" },
