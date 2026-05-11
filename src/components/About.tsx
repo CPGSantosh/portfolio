@@ -45,7 +45,7 @@ const About: React.FC = () => {
 
               <div className="space-y-3">
                 <div>
-                  <div className="flex justify-between mb-1">
+                <div className="flex justify-between mb-1">
                     <span className="text-gray-300">Financial Analysis</span>
                     <span className="text-blue-400">90%</span>
                   </div>
@@ -73,15 +73,29 @@ const About: React.FC = () => {
                 <div>
                   <div className="flex justify-between mb-1">
                     <span className="text-gray-300">Audit & Assurance</span>
-                    <span className="text-green-400">88%</span>
+                    <span className="text-green-400">90%</span>
                   </div>
                   <div className="w-full bg-gray-700 rounded-full h-2">
                     <div
                       className="bg-gradient-to-r from-green-500 to-green-600 h-2 rounded-full"
-                      style={{ width: "88%" }}
+                      style={{ width: "90%" }}
                     ></div>
                   </div>
                 </div>
+
+       <div>
+                  <div className="flex justify-between mb-1">
+                    <span className="text-gray-300">Share market trainer</span>
+                    <span className="text-orange-400">95%</span>
+                  </div>
+                  <div className="w-full bg-gray-700 rounded-full h-2">
+                    <div
+                      className="bg-gradient-to-r from-orange-500 to-orange-600 h-2 rounded-full"
+                      style={{ width: "90%" }}
+                    ></div>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>

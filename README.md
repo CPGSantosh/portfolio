@@ -1,7 +1,7 @@
 
 # 🧠 Yubraj Chapagain - Portfolio & Projects
 
-🚀 **CA Student | Financial Consultant | Full-Stack Developer**  
+🚀 **CA Aspirants | Financial Consultant | Full-Stack Developer**  
 📊 Specializing in **Financial Consulting**, **Tax Planning**, **Audit Services**, and **Share Market Strategy**.  
 💡 Bridging **modern tech** with **traditional finance** through innovative digital solutions.
 

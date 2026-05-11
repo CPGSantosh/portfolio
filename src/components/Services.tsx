@@ -72,7 +72,6 @@ const Services: React.FC = () => {
                   </div>
                 ))}
               </div>
-              
 {/*               
               <button className="mt-6 w-full bg-gray-800 border border-gray-600 text-gray-300 py-3 px-6 rounded-lg hover:bg-gray-700 hover:border-blue-400 hover:text-blue-400 transition-all duration-200">
                 Learn More
