@@ -100,5 +100,5 @@ npm run deploy
 ## 💻  Developer
 
 
-> Crafted with ❤️ by [Yubraj Dhakal Upamanyu](https://github.com/Upamanyu-coder)
+> Crafted with ❤️ by [Yubraj chapagain](https://github.com/yubrajchapagain)
 
