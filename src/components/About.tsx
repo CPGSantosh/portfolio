@@ -26,7 +26,9 @@ const About: React.FC = () => {
               I'm a dedicated CA student with a passion for modern financial
               consulting and business advisory. My journey in chartered
               accountancy has equipped me with comprehensive knowledge in
-              taxation, auditing, and financial management.
+              taxation, auditing, and financial management and I am a passionate web developer with knowledge of HTML, CSS, and JavaScript. I enjoy creating responsive,
+              user-friendly, and interactive websites. I have experience working with front-end development and building clean and functional web interfaces. 
+              
             </p>
 
             <p className="text-lg text-gray-300 mb-8 leading-relaxed">
