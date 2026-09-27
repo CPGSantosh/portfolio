@@ -35,12 +35,9 @@ const Hero: React.FC = () => {
             <div className="w-40 h-40 mx-auto bg-gradient-to-r from-blue-500 to-yellow-500 rounded-full p-1">
               <div className="w-full h-full bg-gray-800 rounded-full overflow-hidden">
                 <img
-                  <img
-  src={`${import.meta.env.BASE_URL}images/photo.jpeg`}
-  alt="Profile"
-/>
-                  
-                  className="w-full h-full object-cover"
+               src={`${import.meta.env.BASE_URL}images/photo.jpeg`}
+               alt="Profile" 
+              className="w-full h-full object-cover"
                 />
               </div>
             </div>
